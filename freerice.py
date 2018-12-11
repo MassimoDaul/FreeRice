@@ -40,3 +40,4 @@ while True:
     except:
         driver.quit()
         indicator = True
+
